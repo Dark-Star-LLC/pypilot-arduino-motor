@@ -6,8 +6,10 @@ We are using platform IO in order to program the arduino using Visual Studio, as
 See [pypilot/.../arduino/motor/motor.ino](https://github.com/pypilot/pypilot/blob/master/arduino/motor/motor.ino) for the original source.  Also see:
 * https://open-boat-projects.org/en/pypilot/
 * https://github.com/pypilot/workbook/wiki/installing-the-arduino
+* https://github.com/pypilot/workbook/wiki/Step-15-Understanding-motor.ino
 * https://github.com/AndreasW29/pypilot-tinypilot-mysolution-infos/blob/main/READMEenglish.md
 * https://pypilot.org/schematics/hbridge_controller.pdf
+* https://github.com/AndreasW29/pypilot-tinypilot-mysolution-infos/blob/main/guide/schematics/pypilotmain.pdf
 
 # diffs
 To see the latest copies of the analogous files, access these urls:
